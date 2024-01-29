@@ -1,0 +1,236 @@
+├── @Automod
+│    ├── muterole [No aliases]: Set a mute role in your server.
+│    ├── wordfilter [No aliases]: Manage word filters in your server.
+├── @Profile
+│    ├── checkbio [perfil]: Check the global biography through a database.
+│    ├── editbio [biographyedit]: Edit the global biography through a database.
+│    ├── listbio [listbiographies]: List users with biographies in the server.
+│    ├── resetbio [rt]: Reset the global biography through a database.
+│    ├── setbio [biographyset]: Set the global biography through a database.
+├── @Options
+│    ├── antilink [spam]: Enable automatic detection and removal of external links within the server.
+│    ├── antinuke [an, aw]: Activate protective measures against potential server attacks or unauthorized actions.
+│    ├── antiraid [ati]: Prevent users from joining the server during raid attempts.
+│    ├── autoreaction []: View all autoreaction commands.
+│    ├── autoresponse [ar]: Automatically reply to specific messages or keywords with predefined responses.
+│    ├── autorole [No aliases]: Assign a specific role to new members upon joining the server.
+│    ├── boost [booster]: Adjust system settings for better performance.
+│    ├── guildpreferences [guildsetup]: Access server-specific settings for customizing bot functionalities.
+│    ├── joindm [setdm, joinmd]: Send a direct message to new members upon joining the server.
+│    ├── listprefixes [prefixes]: View the list of custom prefixes in the server.
+│    ├── logs [No aliases]: Access moderation action logs.
+│    ├── massrole [No aliases]: Assign a role to everyone in the server.
+│    ├── prefix [setprefix, stp]: Change the bot command prefix.
+│    ├── reactionrole [rradd]: Set up reaction roles for users to self-assign roles.
+│    ├── resetprefix [No aliases]: Reset the custom prefix in this server.
+│    ├── reactionroles [rrlist]: List all existing reaction roles configured in the server.
+│    ├── removereactionrole [rremove]: Remove a reaction role from the server configuration.
+│    ├── selfprefix [No aliases]: Manage your custom prefix for this server.
+│    ├── setup [No aliases]: Set up channels and roles.
+│    ├── starboard [No aliases]: Configure starboard settings within the system.
+│    ├── tag [t]: Manage and customize tags within the system.
+│    ├── ticket [No aliases]: Create a support or assistance channel for users.
+│    ├── welcome [greet]: Set up the welcomer system to welcome new users.
+│    ├── wipe [wipe]: Reset warnings for sending prohibited links from a user.
+├── @Economy
+│    ├── additem [No aliases]: Add an item to the server store.
+│    ├── allornothing [all]: Gamble all your money or nothing.
+│    ├── balance [bal, profile]: Shows current balance.
+│    ├── chohan [No aliases]: Play Cho-Han Bakuchi.
+│    ├── clearallitems [No aliases]: Clear all items from the store.
+│    ├── clearitem [No aliases]: Clear a specific item from the store by its numbered index.
+│    ├── collect [day]: Gives you 2000 per day.
+│    ├── deposit [dep]: Deposit funds within the system.
+│    ├── gamble [No aliases]: Gamble a specified amount and roll a dice to win or lose money.
+│    ├── givemoney [gv]: Adds money to a user.
+│    ├── globalleaderboard [glb]: Shows the global leaderboard for users in the Economy category.
+│    ├── implore [No aliases]: Implore for money.
+│    ├── invest [No aliases]: Invest money and get returns.
+│    ├── leaderboard [lb]: Show a snapshot of the local leaderboard for users.
+│    ├── lottery [No aliases]: Join the lottery for a chance to win a big prize!
+│    ├── removemoney [rm]: Removes money from a user.
+│    ├── resetbalance [No aliases]: Reset your economy balance.
+│    ├── rob [No aliases]: Rob someone.
+│    ├── roulette [rte]: Play roulette and bet on a number or color.
+│    ├── slots [sl]: Slot game. Winner for any row.
+│    ├── store [No aliases]: View items available in the server store.
+│    ├── transfer [No aliases]: Initiate fund transfers.
+│    ├── weekly [week]: Gives you 50000 per week.
+│    ├── withdraw [with]: Withdraw money from bank.
+│    ├── work [wr]: Work to earn money.
+├── @Entertainment
+│    ├── anime [No aliases]: Shows information about anime.
+│    ├── animegif [No aliases]: Responds with a random anime gif.
+│    ├── cat [kitten, kitty]: Fetch a picture of a cat.
+│    ├── code [code]: Shows a random code.
+│    ├── color [colors]: Shows color info.
+│    ├── colorify [No aliases]: Apply a color filter to an image or a user's avatar.
+│    ├── decode [No aliases]: Converts Morse code to text.
+│    ├── dog [No aliases]: Shows a picture of a dog.
+│    ├── element [No aliases]: Gets information about a chemical element.
+│    ├── embcolor [embcolor]: Generate an embedded message with a specified color.
+│    ├── fact [No aliases]: Gets a random fact.
+│    ├── gif [No aliases]: Get gifs based on your search.
+│    ├── guildinvite [serverinvite]: Creates an invite for the server.
+│    ├── insult [No aliases]: Generates a random insult.
+│    ├── invert [No aliases]: Invert the colors of an image or a user's avatar.
+│    ├── itunes [No aliases]: Get information about a song from iTunes.
+│    ├── kiss [No aliases]: Give a kiss to another user.
+│    ├── knock [No aliases]: Send a knock knock joke to the channel.
+│    ├── map [No aliases]: Gets the current Fortnite map details.
+│    ├── morse [No aliases]: Converts text to Morse code.
+│    ├── movie [No aliases]: Get information about series and movies.
+│    ├── owo [No aliases]: OwOify a provided text.
+│    ├── quickpoll [No aliases]: Initiates a quick poll.
+│    ├── quote [No aliases]: Gets a random quote.
+│    ├── randomavatar [pfprandy]: Avatar and tag for a random user.
+│    ├── randomuser [random]: Avatar and tag for a random user.
+│    ├── resetkiss [No aliases]: Reset the kiss count between two users.
+│    ├── response [rsp]: Generate a random response.
+│    ├── stonks [stks]: Return a Stonks image.
+│    ├── txtimage [No aliases]: Another fun command.
+│    ├── uwu []: OwOify a provided text.
+│    ├── wallpaper [wp]: Shows wallpapers for PC or mobile.
+│    ├── wide [No aliases]: Get a widened avatar of a user.
+│    ├── yomama [No aliases]: Generate a random 'Yo Mama' joke.
+│    ├── guess [gs]: Fun.
+│    ├── quickclick [qc]: Fun.
+│    ├── quiz [qz]: Fun.
+│    ├── rps [rockpaperscissors]: Play rock-paper-scissors with another user.
+│    ├── snake [No aliases]: Fun.
+│    ├── trivia [No aliases]: Information.
+├── @Information
+│    ├── serverbots [bots]: See all bots in the server.
+│    ├── report [bugs]: Bug report command.
+│    ├── channelinfo [ci, channeli, cinfo]: Show channel information.
+│    ├── chunked [No aliases]: Show a list of members with the same discriminator.
+│    ├── cremb [ebc, embed]: Create your own embed.
+│    ├── crypto [cryptocurrency, cryptocurrencies]: Get information about cryptocurrencies.
+│    ├── emojinfo [ei]: Fetch information about a specific emoji.
+│    ├── fetch [found]: Fetch information about a user.
+│    ├── find [No aliases]: Show user ID information.
+│    ├── firstmessage [firstmsg, first]: Fetch the first message ever sent in the current channel.
+│    ├── guildbanner [gbanner]: Display the banner of the server.
+│    ├── guildicon [icon]: Display the icon of the server.
+│    ├── help [h]: Show commands.
+│    ├── inrole [mbs]: Display a list of members with a specified role.
+│    ├── invite [No aliases]: Show info about my invitation.
+│    ├── invites [invs]: Invite tracker of the server.
+│    ├── membercount [mc]: Display the total member count of the server.
+│    ├── names [No aliases]: Show the username history of a member.
+│    ├── perms [permissions]: Display permissions of the mentioned user or yourself.
+│    ├── ping [No aliases]: Show ping and uptime of the bot.
+│    ├── roleinfo [rinfo]: Display information about a specific role.
+│    ├── serverinfo [si]: Display information about the server.
+│    ├── support [No aliases]: Show support information and invites users to the support server.
+│    ├── topinvites [topinv, topinviters]: Show the users with the most invites in the server.
+│    ├── userinfo [userinfo, whois, ui, user, u]: Find out info about mentioned user.
+│    ├── wikipedia [wiki]: Show information about a query from Wikipedia.
+│    ├── helpfw [No aliases]: Display information about the NSFW commands.
+│    ├── about [botinfo]: Information about the bot.
+├── @Last Fm
+│    ├── fm [np, fm, now]: Display your currently playing Last.fm track and related information.
+│    ├── lastfm [lf]: All commands that interact with the Last.fm website.
+│    ├── reaction [reaction, react]: Set FM Emoji.
+├── @Control
+│    ├── ban [b, bean]: Ban a user from the server.
+│    ├── bansguild [bans, bns]: Ban multiple users from the server.
+│    ├── botclear [bc]: Clear bot messages from the channel.
+│    ├── forceban [hackban, bye]: Forcefully ban a user who is not in the server using their user ID.
+│    ├── warnhistory [history]: View the warning history of a user.
+│    ├── imagemute [imute]: Mute a user from sending images in the server.
+│    ├── unimagemute [unim]: Unmute a user from the image mute.
+│    ├── jail [sentence, prision]: Jail a user.
+│    ├── jailist []: List jailed users.
+│    ├── kick [k]: Kick a user from the server.
+│    ├── lock [No aliases]: Lock a channel.
+│    ├── massban [mb, multiban]: Ban multiple users from the server at once.
+│    ├── mute [mte]: Mute a user from the server.
+│    ├── muteall [mall]: Mute all users in a voice channel.
+│    ├── notes [No aliases]: View notes of a user.
+│    ├── nuke [No aliases]: Deletes the current channel and clones it.
+│    ├── private [No aliases]: Send a private message to a user.
+│    ├── purge [clear, c]: Delete a specific number of messages in the channel.
+│    ├── resetroles [removeroles, purgeroles]: Remove all roles from a user.
+│    ├── purgeserver [ps]: Delete all messages in the server.
+│    ├── purgeuser [pu]: Delete all messages sent by a user.
+│    ├── rename [name]: Rename a channel.
+│    ├── resetwarnings [clearwarnings]: Reset the warning count of a user.
+│    ├── reveal [No aliases]: Reveal a spoiler.
+│    ├── role [No aliases]: Add or remove a role to/from a user.
+│    ├── rolecolor [rcolor]: Change the color of a role.
+│    ├── rolecreate [rc]: Create a new role.
+│    ├── roledelete [rd]: Delete a role.
+│    ├── roleremove [rr]: Remove a role from a user.
+│    ├── roles [No aliases]: View available roles in the server with pagination.
+│    ├── slowmode [No aliases]: Set the slowmode of a channel.
+│    ├── tempban []: Temporarily ban a user from the server.
+│    ├── timeout []: Timeout a user.
+│    ├── unmute [unm]: Unmute a user in the server.
+│    ├── unban [No aliases]: Unban a user from the server.
+│    ├── unbanall [No aliases]: Unban every member in a guild.
+│    ├── unjail [unsentence, uj]: Unjail a user.
+│    ├── unlock [unlockdown]: Unlock a channel.
+│    ├── umassban [umb, unmassban]: Unban multiple users from the server at once.
+│    ├── unmuteall [umall]: Unmute all users in a voice channel.
+│    ├── untimeout []: Untimeout a user.
+│    ├── warn [No aliases]: Warn a user.
+│    ├── whi [No aliases]: Add or remove a role to/from all bots in the server.
+│    ├── whis [No aliases]: Add or remove a role to/from all humans in the server.
+├── @Tools
+│    ├── emojiadd [copy, steal]: Add emojis to the server.
+│    ├── afk []: Set your status as AFK (Away From Keyboard).
+│    ├── appstore [No aliases]: Search for apps on the app store.
+│    ├── avatar [av, pfp]: View or change your avatar.
+│    ├── avatarhistory [avatars]: View the avatar change history of a user.
+│    ├── banner [bn]: Set or view your banner.
+│    ├── boosters [No aliases]: View server boosters.
+│    ├── chatbot [No aliases]: Ask a question to the chatbot.
+│    ├── checkinvite [invitecheck, checkinv, findinvite]: Check an invite code for a server.
+│    ├── choose [No aliases]: Make a choice from provided options.
+│    ├── clearavatars [No aliases]: Reset your avatar change history.
+│    ├── compress [No aliases]: Compress image to lower quality.
+│    ├── copyembed [copy]: Copy an embed message.
+│    ├── definition [def, define]: Get the definition of a word.
+│    ├── editembed [embededit, edit]: Edit an embedded message.
+│    ├── editsnipe [es]: View the latest edited message.
+│    ├── embinfo [ed]: View information about an embedded message.
+│    ├── emojify [No aliases]: Convert text to emojis.
+│    ├── emolog [No aliases]: View the recently sent emojis.
+│    ├── listemojis [emotes]: List available emojis.
+│    ├── enlarge [e]: Enlarge an image.
+│    ├── fyp [No aliases]: Find your page (TikTok).
+│    ├── getbotinv [invb]: Get bot's invite link.
+│    ├── google [image]: Search for images on Google.
+│    ├── lyrics [lyr]: Get song lyrics.
+│    ├── maps [googlemaps]: Search for locations on Google Maps.
+│    ├── mcskin [mcskin]: Get the skin of a Minecraft user.
+│    ├── nasa [nasa]: View Astronomy Picture of the Day.
+│    ├── news [No aliases]: View the latest news.
+│    ├── ocr [No aliases]: Extract text from images.
+│    ├── oldest [old]: View the oldest members in the Guild.
+│    ├── password [No aliases]: Generate a random password.
+│    ├── pin [No aliases]: Pin a message.
+│    ├── qr [No aliases]: Generate or read QR codes.
+│    ├── reactionsnipe [rs]: Snipe the latest reaction.
+│    ├── subreddit [reddit]: View a subreddit.
+│    ├── remind [reminder]: Set a reminder.
+│    ├── rotate [No aliases]: Rotate an image.
+│    ├── search [search]: Search the web.
+│    ├── snipe [s]: Snipe the latest message.
+│    ├── spotify [sp]: Search for songs on Spotify.
+│    ├── steam [No aliases]: Find a game on Steam.
+│    ├── tiktok [tt]: Search for videos on TikTok.
+│    ├── timezone [tz]: Set or view your timezone.
+│    ├── translate [trans]: Translate text.
+│    ├── transparent [rb, transparent]: Remove background from an image.
+│    ├── tts []: Convert text to speech.
+│    ├── tw [No aliases]: View Twitter profiles.
+│    ├── unpin [No aliases]: Unpin a message.
+│    ├── uptime [up, botuptime]: View the bot's uptime.
+│    ├── useroles [ur]: Check a user's roles.
+│    ├── weather [weather]: View weather information.
+│    ├── wolfram [No aliases]: Search for information using Wolfram Alpha.
+│    ├── youtube [yt]: Search for videos on YouTube.
+│    ├── ytchannel [No aliases]: View YouTube channels.
+│    ├── ytogether [No aliases]: Watch YouTube videos together in a voice channel.
