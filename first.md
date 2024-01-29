@@ -7,4 +7,4 @@ Support
 If you have any questions or need assistance, feel free to join our support server!
 
 License
-Couldu is a privately licensed Discord bot. All rights reserved. Unauthorized use or distribution of this bot's code is strictly prohibited@
+Couldy is a privately licensed Discord bot. All rights reserved. Unauthorized use or distribution of this bot's code is strictly prohibited@
